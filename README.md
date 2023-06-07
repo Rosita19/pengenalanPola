@@ -1,0 +1,2 @@
+# pengenalanPola
+pola
